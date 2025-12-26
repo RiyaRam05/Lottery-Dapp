@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Lottery-Dapp/static/css/main.2e96f504.chunk.css",
+    "main.js": "/Lottery-Dapp/static/js/main.b304fbfd.chunk.js",
+    "main.js.map": "/Lottery-Dapp/static/js/main.b304fbfd.chunk.js.map",
+    "runtime-main.js": "/Lottery-Dapp/static/js/runtime-main.49db8cb9.js",
+    "runtime-main.js.map": "/Lottery-Dapp/static/js/runtime-main.49db8cb9.js.map",
+    "static/js/2.769a4fb9.chunk.js": "/Lottery-Dapp/static/js/2.769a4fb9.chunk.js",
+    "static/js/2.769a4fb9.chunk.js.map": "/Lottery-Dapp/static/js/2.769a4fb9.chunk.js.map",
+    "index.html": "/Lottery-Dapp/index.html",
+    "static/css/main.2e96f504.chunk.css.map": "/Lottery-Dapp/static/css/main.2e96f504.chunk.css.map",
+    "static/js/2.769a4fb9.chunk.js.LICENSE.txt": "/Lottery-Dapp/static/js/2.769a4fb9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.49db8cb9.js",
+    "static/js/2.769a4fb9.chunk.js",
+    "static/css/main.2e96f504.chunk.css",
+    "static/js/main.b304fbfd.chunk.js"
+  ]
+}
